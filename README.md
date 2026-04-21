@@ -1,1 +1,1 @@
-I'm a researcher in computational astrophysics with skills in high-performance computing, scientific software development, data analysis, and visualisation.
+High-performance C++ for large-scale simulation and stochastic modelling. Background in astrophysics; focused on parallel computation, numerical methods, and performance-critical systems, with supporting tools for data analysis and visualisation.
